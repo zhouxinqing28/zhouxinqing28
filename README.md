@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhouxinqing28
 - 👀 I’m interested in coding and finance engineering.
-- 🌱 I’m currently learning Finance Engineering andtry hard to 
-- 💞️ I’m looking to collaborate on Quant process and strategy
+- 🌱 I’m currently learning Quant Finance and try hard to get a job
+- 💞️ I’m looking to collaborate on Quant strategy
 - 📫 How to reach me : 223040148@link.cuhk.edu.cn
 
 <!---
